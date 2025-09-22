@@ -53,4 +53,4 @@ project-folder/
 Created with ❤️ by **moaz mohamed**.  
 
 
- [linkedin](https://www.linkedin.com/in/moaz-mohamed-545725375/)
+[linkedin](https://www.linkedin.com/in/moaz-mohamed-545725375/)
