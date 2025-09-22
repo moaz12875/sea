@@ -47,4 +47,5 @@ Add more layers (clouds, birds, etc.) for deeper parallax effect.
 
 👨‍💻 Author
 Created by [moazmohamed].
-(https://www.linkedin.com/in/moaz-mohamed-545725375/)[linkedin]
+
+[https://www.linkedin.com/in/moaz-mohamed-545725375/](linkedin)
