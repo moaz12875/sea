@@ -25,11 +25,11 @@ As you scroll, the stars, moon, mountains, river, and boat move at different spe
 
 ```bash
 project-folder/
-│── index.html      # 🌐 Main HTML file
-│── css.css         # 🎨 Stylesheet (design & layout)
-│── script.js       # ⚡ JavaScript (parallax logic)
-│── img/            # 🖼️ Images (stars, moon, mountains, river, boat)
-│── README.md       # 📖 Documentation
+│── index.html       🌐 Main HTML file
+│── css.css          🎨 Stylesheet (design & layout)
+│── script.js        ⚡ JavaScript (parallax logic)
+│── img/             🖼️ Images (stars, moon, mountains, river, boat)
+│── README.md        📖 Documentation
 
 ---
 
@@ -53,4 +53,4 @@ project-folder/
 Created with ❤️ by **moaz mohamed**.  
 
 
-# [linkedin](https://www.linkedin.com/in/moaz-mohamed-545725375/)
+ [linkedin](https://www.linkedin.com/in/moaz-mohamed-545725375/)
