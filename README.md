@@ -31,6 +31,7 @@ project-folder/
 │── img/             🖼️ Images (stars, moon, mountains, river, boat)
 │── README.md        📖 Documentation
 
+```
 ---
 
 ## 🚀 How to Run
