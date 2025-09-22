@@ -51,7 +51,7 @@ project-folder/
 ---
 
 ## 👨‍💻 Author
-Created with ❤️ by **moaz mohamed**.  
+Created with by **moaz mohamed**❤️ .  
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-moaz--mohamed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/moaz-mohamed-545725375/)
