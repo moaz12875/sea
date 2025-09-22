@@ -22,13 +22,14 @@ As you scroll, the stars, moon, mountains, river, and boat move at different spe
 ---
 
 ## 📂 Project Structure
-project-folder/
-│── index.html        # Main HTML file
-│── css.css           # Stylesheet
-│── script.js         # JavaScript (parallax logic)
-│── img/              # Images (stars, moon, mountains, river, boat)
-│── README.md         # Documentation
 
+```bash
+project-folder/
+│── index.html      # 🌐 Main HTML file
+│── css.css         # 🎨 Stylesheet (design & layout)
+│── script.js       # ⚡ JavaScript (parallax logic)
+│── img/            # 🖼️ Images (stars, moon, mountains, river, boat)
+│── README.md       # 📖 Documentation
 
 ---
 
